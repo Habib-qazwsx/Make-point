@@ -1,0 +1,16 @@
+.header{
+    height: 190px;
+    text-align: center;
+    border-radius: 25px;
+}
+.header h1{
+    padding: 15px;
+    margin: 0;
+    color: rgb(158, 99, 212);
+    font-weight: 40px;
+    background-color: #2d3e4f;
+
+}
+.header h3{
+    color: rgb(17, 19, 18);
+}
